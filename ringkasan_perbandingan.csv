@@ -1,0 +1,5 @@
+Seleksi,Crossover,Run valid,Fitness terbaik (rata-rata),Fitness rata-rata akhir,Gen. valid pertama (rata-rata)
+roulette,onepoint,10/10,1.0,0.9301,0.0
+roulette,uniform,10/10,1.0,0.9314,0.0
+tournament,onepoint,10/10,1.0,0.9644,0.0
+tournament,uniform,10/10,1.0,0.9512,0.0
